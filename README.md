@@ -13,16 +13,4 @@ Importante: Um recurso só pode existir em um grupo, mas você pode movê-lo ent
 
 O Azure oferece pares de regiões que replicam os dados entre si para garantir a continuidade dos serviços em caso de desastres.
 Replicação entre Regiões é útil para habilitar DR e manter a alta disponibilidade.
-Requisitos para o Desafio DIO:
-Crie seu repositório GitHub:
 
-Crie um repositório público para documentar o projeto e mostrar seu desenvolvimento.
-O README deve conter:
-Uma breve descrição do projeto.
-O passo a passo de como executar ou replicar o projeto.
-Links úteis e referências (ex: documentação do Azure, links para tutoriais).
-Portfólio: Enfatize o protagonismo e sua contribuição técnica.
-Entrega no GitHub:
-
-Inclua todos os arquivos e links necessários no repositório (ex: scripts, templates de infraestrutura, arquivos de configuração).
-Mantenha o código claro e bem documentado.
